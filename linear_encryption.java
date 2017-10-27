@@ -1,6 +1,3 @@
-# Doğrusal Şifreleme
-
-
 public class cevir{
 	int a,b;
 	public void metincevir(String metin , int a , int b){
