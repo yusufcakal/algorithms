@@ -1,6 +1,8 @@
-# algorithm and solutions
+# Algorithm and Solutions
 
 It was designed to create basic documents and problem solving approaches in a document and sample projects that I know or learning.
+
+### Available Titles
 
 * Linear Encryption
 * Trie Algorithm
