@@ -4,7 +4,7 @@ It was designed to create basic documents and problem solving approaches in a do
 
 ### Available Titles
 
-* Affine Cipher Algoritm
+* Affine Cipher Algorithm
 * Trie Algorithm
 
 [Detailed Document](https://yusufcakal.gitbooks.io/algoritmalar-ve-yaklasimlar/content/) - (Turkish)
