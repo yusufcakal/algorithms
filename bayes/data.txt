@@ -1,0 +1,10 @@
+true false false false man
+true false false true woman
+false false true false man
+true true false true man
+true false true false woman
+false false true true woman
+true false false true man
+false false false true man
+true false false false man
+true true true false woman
