@@ -7,6 +7,7 @@ It was designed to create basic documents and problem solving approaches in a do
 * Affine Cipher(Linear Encryption) Algorithm
 * Selection Sort
 * Apriori Algorithm
+* K-NN Algorithm
 * Trie Algorithm
 
 [Detailed Document](https://yusufcakal.gitbooks.io/algoritmalar-ve-yaklasimlar/content/) - (Turkish)
