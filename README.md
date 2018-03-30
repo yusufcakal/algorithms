@@ -10,6 +10,7 @@ It was designed to create basic documents and problem solving approaches in a do
 * K-NN Algorithm
 * Bayes Classifier Algorithm
 * Knapsack Algorithm
+* Daily Moving Avarage
 * Trie Algorithm (Preparing..)
 
 [Detailed Document](https://yusufcakal.gitbooks.io/algoritmalar-ve-yaklasimlar/content/) - (Turkish)
