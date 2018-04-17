@@ -1,5 +1,3 @@
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -23,11 +21,19 @@ public class Main {
 
         List<Integer> integerListTest = new ArrayList<>();
         integerListTest.add(15);
-        integerListTest.add(3);
         integerListTest.add(4);
+        integerListTest.add(8);
         integerListTest.add(21);
         integerListTest.add(10);
         integerListTest.add(7);
+
+        for (int i=0; i<integerListTest.size(); i++){
+            withOutSortAndBinary(integerList, integerListTest.get(i));
+            System.out.println(result);
+        }
+
+        System.out.println("------------");
+
 
         Collections.sort(integerList);
 
@@ -38,14 +44,32 @@ public class Main {
 
     }
 
+    static void withOutSortAndBinary(List<Integer> list, int value){
+        boolean flag = false;
+        for (int i=0; i<list.size(); i++){
+            if (list.get(i) == value){
+                flag = true;
+                break;
+            }else{
+                flag = false;
+            }
+        }
+
+        if (flag){
+            result = "VAR";
+        }else{
+            result = "YOK";
+        }
+
+    }
+
     static void binarySearch(List<Integer> list, int value){
         int middleIndex = ((list.size()+1) / 2) - 1;
-
         if (list.size() == 0){
-            result = "NO"; // value not available
+            result = "YOK";
         }else{
             if (value == list.get(middleIndex)){
-                result = "YES"; // value available
+                result = "VAR";
             }else if (value > list.get(middleIndex)){
                 list = list.subList(middleIndex+1, list.size());
                 binarySearch(list, value);
