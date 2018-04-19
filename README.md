@@ -11,6 +11,7 @@ It was designed to create basic documents and problem solving approaches in a do
 * Bayes Classifier Algorithm
 * Knapsack Algorithm
 * Daily Moving Avarage
+* Binary Search
 * Trie Algorithm (Preparing..)
 
 [Detailed Document](https://yusufcakal.gitbooks.io/algoritmalar-ve-yaklasimlar/content/) - (Turkish)
