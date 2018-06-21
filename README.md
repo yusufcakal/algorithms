@@ -13,7 +13,8 @@ It was designed to create basic documents and problem solving approaches in a do
 * Daily Moving Avarage
 * Binary Search
 * Longest Common Subsequence
-* Trie Algorithm (Preparing..)
+* Trie Algorithm (Preparing)
+
 
 [Detailed Document](https://yusufcakal.gitbooks.io/algoritmalar-ve-yaklasimlar/content/) - (Turkish)
 
