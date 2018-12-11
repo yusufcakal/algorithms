@@ -1,6 +1,6 @@
 # Algorithms and Solutions
 
-It was designed to create basic documents and problem solving approaches in a document and sample projects that I know or learning.
+It was designed to create basic documents and problem solving approaches in a document and sample projects that I know or I am learning.
 
 ### Available Titles
 
