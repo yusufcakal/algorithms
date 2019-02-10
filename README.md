@@ -14,7 +14,7 @@ It was designed to create basic documents and problem solving approaches in a do
 * Binary Search
 * Longest Common Subsequence
 
-Preparing Topics
+### Preparing Titles
 
 * Trie Approach
 * Mark and Sweep Algorithm (Garbage Collection Approach)
